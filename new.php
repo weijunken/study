@@ -1,1 +1,1 @@
-fuck maymay
+maymay is a good girl
