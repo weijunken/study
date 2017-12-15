@@ -1,6 +1,6 @@
 <?php
 	class Cat {
-		public function ($sign){
+		public function isTrue($sign){
 			if ($sign == 'kenli'){
 				return true;
 			}
