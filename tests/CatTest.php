@@ -6,4 +6,8 @@
 			$cat = new Cat();
 			$this->assertTrue($cat->isTrue('kenli'));
 		}
+		public function testIsFalse(){
+			$cat = new Cat();
+			$this->assertFalse($cat->isTrue('kenli11'));
+		}
 	}
